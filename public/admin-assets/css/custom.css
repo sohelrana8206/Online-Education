@@ -1,0 +1,13 @@
+.font15{
+    font-size: 15px;
+}
+.live-chat{
+    position: fixed;
+    right: 30px;
+    bottom: 25px;
+    transition-duration: .5s;
+}
+.live-chat img:hover{
+    width: 55px;
+    transition-duration: .5s;
+}
